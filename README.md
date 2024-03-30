@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Applied Computer Science and I love it!
+- 🌱 I’m currently learning Data Science and I love it!
 - 👯 I’m looking to collaborate on a Data Science project that will benefit the underprivileged.
 - 🤔 I’m looking for help finding meaningful work as a Data Scientist, that's where you come in.
 - 💬 Ask me about why I am here.
